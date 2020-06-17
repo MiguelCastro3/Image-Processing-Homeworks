@@ -1,6 +1,6 @@
 # Image Processing Homeworks
 
-Works related to the Image Processing class
+Works related to the Image Processing class:
 
 * [TPC1](https://github.com/MiguelCastro3/Image-Processing-Homeworks/tree/master/TPC1) - problems related to the histogram of an image, changing its brightness and contrast.
 * [TPC2](https://github.com/MiguelCastro3/Image-Processing-Homeworks/tree/master/TPC2) - problems related to the high boost technique, Laplacian operator, image enhancement and calculation of gradients, angles and modules for different kernels.
